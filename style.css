@@ -1,3 +1,14 @@
-*{border: 1px dotted black;}
+* {
+    border: 1px dotted black;
+}
 
 
+header {
+    height: 80px;
+    background-color: #2C3E50;
+}
+
+
+.jumbotron{height: 400px; background-color: #1ABC9C;}
+.row{height: 100%;}
+.col{height: 100%;}
