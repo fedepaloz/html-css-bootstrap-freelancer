@@ -3,12 +3,35 @@
 }
 
 
+
+
 header {
     height: 80px;
     background-color: #2C3E50;
 }
 
 
-.jumbotron{height: 400px; background-color: #1ABC9C;}
-.row{height: 100%;}
-.col{height: 100%;}
+.jumbotron {
+    height: 400px;
+    background-color: #1ABC9C;
+}
+
+.row {
+    height: 100%;
+}
+
+.col {
+    height: 100%;
+}
+
+#portfolio .container{height: 800px;padding: 30px;}
+#about .container{height: 400px;background-color: #1ABC9C;}
+#location .container{background-color: #3A546D;}
+.card{height: 100%; background-color: tomato;}
+
+#portfolio .col-12{padding:10px 0;}
+
+footer{background-color: #2C3E50;
+height: 200px;}
+
+
