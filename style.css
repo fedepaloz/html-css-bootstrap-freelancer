@@ -8,7 +8,7 @@
 header {
     height: 80px;
     background-color: #2C3E50;
-    
+
 }
 
 
@@ -21,19 +21,28 @@ header {
 
 
 
-#portfolio{height: 800px;padding: 30px;}
-#about{height: 400px;background-color: #1ABC9C;}
-#location{background-color: #3A546D;}
+#portfolio {
+    height: 800px;
+    padding: 30px;
+}
 
-.card{height: 100%; background-color: tomato;}
+#about {
+    height: 400px;
+    background-color: #1ABC9C;
+}
+
+#location {
+    background-color: #3A546D;
+}
+
+.card {
+    height: 100%;
+    background-color: tomato;
+}
 
 
 
-footer{background-color: #2C3E50;
-height: 200px;}
-
-
-
-
-
-
+footer {
+    background-color: #2C3E50;
+    height: 200px;
+}
