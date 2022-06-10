@@ -11,7 +11,9 @@
 
 }
 
-#jumbotron{background-color: #1ABC9C;}
+#jumbotron {
+    background-color: #1ABC9C;
+}
 
 
 /* .jumbotron {
@@ -47,4 +49,11 @@
 footer {
     background-color: #2C3E50;
     height: 200px;
+}
+
+.hamburger {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
 }
