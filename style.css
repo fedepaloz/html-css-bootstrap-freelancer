@@ -1,44 +1,46 @@
-* {
+/* * {
     border: 1px dotted black;
 }
+ */
 
 
 
-
-header {
+#header {
     height: 80px;
     background-color: #2C3E50;
 
 }
 
+#jumbotron{background-color: #1ABC9C;}
 
-.jumbotron {
+
+/* .jumbotron {
     height: 400px;
     background-color: #1ABC9C;
     margin-top: 80px;
-}
+} */
 
 
 
 
-#portfolio {
+/* #portfolio {
     height: 800px;
     padding: 30px;
-}
+} */
 
-#about {
+/* #about {
     height: 400px;
     background-color: #1ABC9C;
-}
+} */
 
 #location {
     background-color: #3A546D;
 }
 
-.card {
+/* .card {
     height: 100%;
     background-color: tomato;
-}
+} */
 
 
 
