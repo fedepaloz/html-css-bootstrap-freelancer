@@ -1,12 +1,14 @@
 /* * {
     border: 1px dotted black;
+} */
+
+
+body {
+    font-family: 'Roboto', sans-serif;
 }
- */
-
-
 
 #header {
-    height: 80px;
+
     background-color: #2C3E50;
 
 }
@@ -16,33 +18,12 @@
 }
 
 
-/* .jumbotron {
-    height: 400px;
-    background-color: #1ABC9C;
-    margin-top: 80px;
-} */
 
-
-
-
-/* #portfolio {
-    height: 800px;
-    padding: 30px;
-} */
-
-/* #about {
-    height: 400px;
-    background-color: #1ABC9C;
-} */
 
 #location {
     background-color: #3A546D;
 }
 
-/* .card {
-    height: 100%;
-    background-color: tomato;
-} */
 
 
 
@@ -56,4 +37,22 @@ footer {
     width: 1.5em;
     height: 1.5em;
     vertical-align: middle;
+}
+
+
+#avatar {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+figure {
+    height: 250px;
+}
+
+.dash {
+    width: 50px;
+    height: 5px;
+    background-color: white;
+    border-radius: 30px;
 }
